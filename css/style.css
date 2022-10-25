@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+
+}
+#feedback{
+    background: #0d0442;
+    padding: 7% 10%;
+}
+.hr-style{
+    border: 5px white;
+    border-bottom: none;
+    border-style: dotted;
+
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic;
+    
+}
